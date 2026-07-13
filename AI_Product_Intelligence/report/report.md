@@ -1,7 +1,8 @@
 # AI Product Intelligence System
 ## Project Report — Gen AI Bootcamp Day 2
 
-**Author:** Gen AI Bootcamp Participant
+**Author:** Abhishek-Kumar-Maurya 
+**Gmail:** glx.abhii@gmail.com
 **Date:** July 2026
 **Course:** Generative AI Pre-Placement Bootcamp
 
