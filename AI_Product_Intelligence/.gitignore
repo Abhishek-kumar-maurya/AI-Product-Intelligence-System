@@ -1,0 +1,32 @@
+# Python & IDEs
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv/
+*.log
+
+# Heavy Data & Generated Cache (Do NOT push large datasets to GitHub)
+data/styles.csv
+data/images/*
+!data/images/.gitkeep
+
+embeddings/*.npy
+!embeddings/.gitkeep
+
+faiss_index/*.index
+!faiss_index/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
+
+models/*
+!models/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
